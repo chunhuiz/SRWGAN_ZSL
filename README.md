@@ -8,6 +8,6 @@ The SOURCE CODEs of [Bias-Eliminated Semantic Refinement for Any-Shot Learning](
   
 ----------   
 #### All rights reserved, citing the following papers are required for reference:
-[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, IEEE TII, 2021.  
-[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, IEEE TNNLS, 2021.  
-[3] L. J. Feng, et al. Bias-Eliminated Semantic Refinement for Any-Shot Learning, IEEE TIP, 2022.
+[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, TII, 2021.  
+[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 2021.  
+[3] L. J. Feng, et al. Bias-Eliminated Semantic Refinement for Any-Shot Learning, TIP, 2022.
