@@ -1,5 +1,5 @@
 # SRWGAN
-The SOURCE CODEs of [Bias-Eliminated Semantic Refinement for Any-Shot Learning, IEEE TIP, 2022.](https://arxiv.org/pdf/2202.04827.pdf) 
+The SOURCE CODEs of [Bias-Eliminated Semantic Refinement for Any-Shot Learning](https://arxiv.org/pdf/2202.04827.pdf), IEEE TIP, 2022. 
 
 ![The Structure of SRWGAN](https://github.com/LiangjunFeng/SRWGAN/blob/main/SRWGAN.png)
 
@@ -8,6 +8,6 @@ The SOURCE CODEs of [Bias-Eliminated Semantic Refinement for Any-Shot Learning, 
   
 ----------   
 #### All rights reserved, citing the following papers are required for reference:
-[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, IEEE TII, 17(3), 1852 - 1862, 2021.  
-[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, IEEE TNNLS, 32(6), 2506 - 2520, 2021.  
-[3] L. J. Feng, et al. Bias-Eliminated Semantic Refinement for Any-Shot Learning, IEEE TIP, 2022, https://arxiv.org/pdf/2202.04827.pdf.
+[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, IEEE TII, 2021.  
+[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, IEEE TNNLS, 2021.  
+[3] L. J. Feng, et al. Bias-Eliminated Semantic Refinement for Any-Shot Learning, IEEE TIP, 2022.
